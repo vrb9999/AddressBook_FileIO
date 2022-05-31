@@ -1,0 +1,13 @@
+D:\RFP\AddressBook_FileIO\SortByName\SortByName\bin\Debug\netcoreapp3.1\SortByName.exe
+D:\RFP\AddressBook_FileIO\SortByName\SortByName\bin\Debug\netcoreapp3.1\SortByName.deps.json
+D:\RFP\AddressBook_FileIO\SortByName\SortByName\bin\Debug\netcoreapp3.1\SortByName.runtimeconfig.json
+D:\RFP\AddressBook_FileIO\SortByName\SortByName\bin\Debug\netcoreapp3.1\SortByName.runtimeconfig.dev.json
+D:\RFP\AddressBook_FileIO\SortByName\SortByName\bin\Debug\netcoreapp3.1\SortByName.dll
+D:\RFP\AddressBook_FileIO\SortByName\SortByName\bin\Debug\netcoreapp3.1\SortByName.pdb
+D:\RFP\AddressBook_FileIO\SortByName\SortByName\obj\Debug\netcoreapp3.1\SortByName.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\AddressBook_FileIO\SortByName\SortByName\obj\Debug\netcoreapp3.1\SortByName.AssemblyInfoInputs.cache
+D:\RFP\AddressBook_FileIO\SortByName\SortByName\obj\Debug\netcoreapp3.1\SortByName.AssemblyInfo.cs
+D:\RFP\AddressBook_FileIO\SortByName\SortByName\obj\Debug\netcoreapp3.1\SortByName.csproj.CoreCompileInputs.cache
+D:\RFP\AddressBook_FileIO\SortByName\SortByName\obj\Debug\netcoreapp3.1\SortByName.dll
+D:\RFP\AddressBook_FileIO\SortByName\SortByName\obj\Debug\netcoreapp3.1\SortByName.pdb
+D:\RFP\AddressBook_FileIO\SortByName\SortByName\obj\Debug\netcoreapp3.1\SortByName.genruntimeconfig.cache
