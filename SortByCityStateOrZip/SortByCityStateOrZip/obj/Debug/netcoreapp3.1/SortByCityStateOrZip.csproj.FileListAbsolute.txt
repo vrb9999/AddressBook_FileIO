@@ -1,0 +1,14 @@
+D:\RFP\AddressBook_FileIO\SortByCityStateOrZip\SortByCityStateOrZip\bin\Debug\netcoreapp3.1\SortByCityStateOrZip.exe
+D:\RFP\AddressBook_FileIO\SortByCityStateOrZip\SortByCityStateOrZip\bin\Debug\netcoreapp3.1\SortByCityStateOrZip.deps.json
+D:\RFP\AddressBook_FileIO\SortByCityStateOrZip\SortByCityStateOrZip\bin\Debug\netcoreapp3.1\SortByCityStateOrZip.runtimeconfig.json
+D:\RFP\AddressBook_FileIO\SortByCityStateOrZip\SortByCityStateOrZip\bin\Debug\netcoreapp3.1\SortByCityStateOrZip.runtimeconfig.dev.json
+D:\RFP\AddressBook_FileIO\SortByCityStateOrZip\SortByCityStateOrZip\bin\Debug\netcoreapp3.1\SortByCityStateOrZip.dll
+D:\RFP\AddressBook_FileIO\SortByCityStateOrZip\SortByCityStateOrZip\bin\Debug\netcoreapp3.1\SortByCityStateOrZip.pdb
+D:\RFP\AddressBook_FileIO\SortByCityStateOrZip\SortByCityStateOrZip\obj\Debug\netcoreapp3.1\SortByCityStateOrZip.csproj.AssemblyReference.cache
+D:\RFP\AddressBook_FileIO\SortByCityStateOrZip\SortByCityStateOrZip\obj\Debug\netcoreapp3.1\SortByCityStateOrZip.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\AddressBook_FileIO\SortByCityStateOrZip\SortByCityStateOrZip\obj\Debug\netcoreapp3.1\SortByCityStateOrZip.AssemblyInfoInputs.cache
+D:\RFP\AddressBook_FileIO\SortByCityStateOrZip\SortByCityStateOrZip\obj\Debug\netcoreapp3.1\SortByCityStateOrZip.AssemblyInfo.cs
+D:\RFP\AddressBook_FileIO\SortByCityStateOrZip\SortByCityStateOrZip\obj\Debug\netcoreapp3.1\SortByCityStateOrZip.csproj.CoreCompileInputs.cache
+D:\RFP\AddressBook_FileIO\SortByCityStateOrZip\SortByCityStateOrZip\obj\Debug\netcoreapp3.1\SortByCityStateOrZip.dll
+D:\RFP\AddressBook_FileIO\SortByCityStateOrZip\SortByCityStateOrZip\obj\Debug\netcoreapp3.1\SortByCityStateOrZip.pdb
+D:\RFP\AddressBook_FileIO\SortByCityStateOrZip\SortByCityStateOrZip\obj\Debug\netcoreapp3.1\SortByCityStateOrZip.genruntimeconfig.cache
